@@ -1,3 +1,4 @@
 {
-  "extends": "@tsconfig/react-native/tsconfig.json"
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "jsx": "preserve" /* Specify JSX code generation: 'preserve', 'react-native', or 'react'. */
 }
